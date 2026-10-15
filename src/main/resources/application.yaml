@@ -1,3 +1,8 @@
 spring:
   application:
     name: api-clientes
+
+datasource:
+  host: jdbc:mysql://localhost:3307/bd-clientes
+  user: coti
+  pass: coti
