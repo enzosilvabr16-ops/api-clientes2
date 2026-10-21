@@ -6,3 +6,6 @@ datasource:
   host: jdbc:mysql://localhost:3307/bd-clientes
   user: coti
   pass: coti
+
+server:
+  port: 8081

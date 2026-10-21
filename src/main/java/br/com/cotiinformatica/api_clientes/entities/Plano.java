@@ -8,6 +8,6 @@ import lombok.Setter;
 public class Plano {
 
     private Integer id;
-    private Integer nome;
+    private String nome;
     private Double valorMensal;
 }
