@@ -9,3 +9,8 @@ datasource:
 
 server:
   port: 8081
+
+cors:
+  allowed-origins:
+    - http://localhost:4200
+    - https://www.cotiinformatica.com.br
