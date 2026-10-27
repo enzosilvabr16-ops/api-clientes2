@@ -7,7 +7,6 @@ public record ClienteResponse(
         String nome,
         String email,
         String cpf,
-        Integer planoId,
-        LocalDateTime dataHoraCadastro
+        Integer planoId
 ) {
 }
